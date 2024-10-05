@@ -3,4 +3,4 @@ My practice about Advanced Graphics for Games
 
 
 
-![scene_surface](.\preview\scene_surface.png)
+![scene_surface](scene_surface.png)
